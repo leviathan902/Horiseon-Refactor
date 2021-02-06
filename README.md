@@ -11,4 +11,6 @@ Horiseon has asked to have their webpage refactored, with a focus on updating th
 * The title should be descriptive and concise.
 
 ## Screenshots ##
-
+![Screenshot 1](https://github.com/leviathan902/Horiseon-Refactor/blob/main/assets/images/Screenshot%201.PNG)
+![Screenshot 1](https://github.com/leviathan902/Horiseon-Refactor/blob/main/assets/images/Screenshot%202.PNG)
+![Screenshot 1](https://github.com/leviathan902/Horiseon-Refactor/blob/main/assets/images/Screenshot%203.PNG)
