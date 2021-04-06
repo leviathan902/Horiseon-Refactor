@@ -14,3 +14,13 @@ Horiseon has asked to have their webpage refactored, with a focus on updating th
 ![Screenshot 1](https://github.com/leviathan902/Horiseon-Refactor/blob/main/assets/images/Screenshot%201.PNG)
 ![Screenshot 1](https://github.com/leviathan902/Horiseon-Refactor/blob/main/assets/images/Screenshot%202.PNG)
 ![Screenshot 1](https://github.com/leviathan902/Horiseon-Refactor/blob/main/assets/images/Screenshot%203.PNG)
+
+## Credits
+
+Assignment is part of the SMU Coding Boot Camp
+
+## License
+
+Copyright (c) 2021 Levi Hickman
+
+Covered by the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
